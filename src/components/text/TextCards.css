@@ -1,0 +1,23 @@
+.textimg {
+    height: 300px;
+    width: 300px;
+    border-radius: .5rem;
+}
+
+.textcard {
+    margin: 2rem auto;
+    text-align: start;
+    height: 300px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.name {
+    text-align: center;
+    color: black;
+}
+
+li {
+    font-weight: bold;
+    margin-top: 2rem;
+}
