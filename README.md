@@ -24,16 +24,11 @@ nba-legends  (folder)
   |     |     |     └---Header.jsx
   |     |     |    
   |     |     |---text (folder)
-  |     |     |     |---Text.jsx
-  |     |     |     |---Text.css
-  |     |     |     |---TextCards.css
-  |     |     |     └---TextCards.jsx
-  |     |     |    
-  |     |     └---main (folder)
-  |     |           |---Content.jsx
-  |     |           |---Content.module.scss
-  |     |           |---Card.jsx
-  |     |           └---Card.module.scss
+  |     |           |---Text.jsx
+  |     |           |---Text.css
+  |     |           |---TextCards.css
+  |     |           └---TextCards.jsx
+  |     |    
   |     |         
   |     |
   |     |---App.js
